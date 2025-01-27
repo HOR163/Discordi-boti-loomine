@@ -17,7 +17,10 @@ Seejärel vali HTTPS ning kopeeri link.
 ![Githubi koodi allalaadimine](images/2.png "Githubist koodi allalaadimine")
 Ava PyCharm.  
 <!-- Lingi sees on []() selleks et link ei oleks aktiivne  -->
-Kui PyCharmi litsentsi on vaja aktiveerida, siis vali _License server_ ning kopeeri ```http://license1.intra.ttu.ee:1111``` serveri aadressi alla.
+Kui PyCharmi litsentsi on vaja aktiveerida, siis vali _License server_ ning aseta antud link serveri aadressi alla.
+```
+http://license1.intra.ttu.ee:1111
+```
 ![PyCharmi aktiveerimine](images/3.png "Pycharmi aktiveerimine")
 
 <details open>
