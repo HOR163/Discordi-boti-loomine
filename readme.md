@@ -12,24 +12,23 @@
 ## Githubi repo allalaadimine
 Selleks, et kood alla laadida vajuta selle lehe ülaosas olevale rohelisele nupule "_Code_"
 ![Github koodi allalaadimine](images/1.png "Githubist koodi alla laadimine")  
-<span style="color:red">Variant 1. HTTPS-iga alla laadimine</span>  
+
 Seejärel vali HTTPS ning kopeeri link.
 ![Githubi koodi allalaadimine](images/2.png "Githubist koodi allalaadimine")
-Ava PyCharm otsides menüüst PyCharmi.  
+Ava PyCharm.  
 <!-- Lingi sees on []() selleks et link ei oleks aktiivne  -->
-Kui PyCharmi litsentsi on vaja aktiveerida, siis vali _License server_ ning kopeeri **http://[]()license1.intra.ttu.ee:1111** serveri aadressi alla.
+Kui PyCharmi litsentsi on vaja aktiveerida, siis vali _License server_ ning kopeeri ```http://license1.intra.ttu.ee:1111``` serveri aadressi alla.
 ![PyCharmi aktiveerimine](images/3.png "Pycharmi aktiveerimine")
 
-<details>
-<summary><b>Kui Gitiga allalaadimine ebaõnnestub</b></summary>
-<!-- <span style="color:red">Variant 2. ZIP-iga alla laadimine</span>   -->
-Seejärel vali "_Download ZIP_"
-![Githubi koodi allalaadimine](images/2.png "Githubist koodi allalaadimine")  
-Nüüd kui kood on alla laetud mine allalaetud failide kausta ning paki ZIP fail lahti (Parem klõps ja _extract all..._)
-[ZIP faili lahti pakkimine](images/4_cropped.png "ZIP faili lahti pakkimine")  
-Nüüd kui see tehtud, siis ava PyCharm ning 
+<details open>
+  <summary>Kui Gitiga allalaadimine ebaõnnestub</summary>  
 
-### `pole PyCharmi seega pole hetkel edasi teinud.`
+  Seejärel vali "_Download ZIP_"  
+  ![Githubi koodi allalaadimine](images/2.png "Githubist koodi allalaadimine")  
+  Nüüd kui kood on alla laetud mine allalaetud failide kausta ning paki ZIP fail lahti (Parem klõps ja _extract all..._)
+  ![ZIP faili lahti pakkimine](images/4_cropped.png "ZIP faili lahti pakkimine")  
+  Nüüd kui see tehtud, siis ava PyCharm ning 
+
 </details>
 
 ## Discordi konto loomine (kui sul pole veel seda)
