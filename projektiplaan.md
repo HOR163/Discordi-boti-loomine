@@ -27,5 +27,5 @@ Uno Bot - discordi bot, millega saab serveris või mingis kanalis unot mängida 
 
 
 ## Millal valmis?
-- Enamus mängust probs saab 31. jaanuariks valmis, AI valmimisaeg peaks olema üsna sarnane.  
+- Enamus mängust probs saab 31. jaanuariks valmis (_maybe_), AI valmimisaeg peaks olema üsna sarnane.  
 Eks see millal 100% valmis saab on veel lahtine  

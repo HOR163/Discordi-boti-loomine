@@ -20,9 +20,9 @@ Ava PyCharm otsides menüüst PyCharmi.
 Kui PyCharmi litsentsi on vaja aktiveerida, siis vali _License server_ ning kopeeri **http://[]()license1.intra.ttu.ee:1111** serveri aadressi alla.
 ![PyCharmi aktiveerimine](images/3.png "Pycharmi aktiveerimine")
 
-### `pole PyCharmi seega pole hetkel edasi teinud.`
-
-<span style="color:red">Variant 2. ZIP-iga alla laadimine</span>  
+<details>
+<summary><b>Kui Gitiga allalaadimine ebaõnnestub</b></summary>
+<!-- <span style="color:red">Variant 2. ZIP-iga alla laadimine</span>   -->
 Seejärel vali "_Download ZIP_"
 ![Githubi koodi allalaadimine](images/2.png "Githubist koodi allalaadimine")  
 Nüüd kui kood on alla laetud mine allalaetud failide kausta ning paki ZIP fail lahti (Parem klõps ja _extract all..._)
@@ -30,6 +30,7 @@ Nüüd kui kood on alla laetud mine allalaetud failide kausta ning paki ZIP fail
 Nüüd kui see tehtud, siis ava PyCharm ning 
 
 ### `pole PyCharmi seega pole hetkel edasi teinud.`
+</details>
 
 ## Discordi konto loomine (kui sul pole veel seda)
 Selleks, et boti luua, peab olema discordi konto, selle tegemiseks mine lehele [https://discord.com/register](https://discord.com/register).  
