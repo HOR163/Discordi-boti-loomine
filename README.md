@@ -13,8 +13,9 @@
 
 
 ## Githubi repo allalaadimine
-<!-- Selleks et ei saaks pildi linki avada -->
-Selleks, et kood alla laadida vajuta selle lehe ülaosas olevale rohelisele nupule [![Github Code nupp](images/code_button.svg "Github Code Button")](#)
+Selleks, et kood alla laadida vajuta selle lehe ülaosas olevale rohelisele nupule <kbd>Code</kbd>
+<!-- Selleks et ei saaks pildi linki avada + kui tahad svg-na ka seda "Code" nuppu lisada-->
+<!-- Selleks, et kood alla laadida vajuta selle lehe ülaosas olevale rohelisele nupule [![Github Code nupp](images/code_button.svg "Github Code Button")](#) -->
 ![Github koodi allalaadimine](images/1.png "Githubist koodi alla laadimine")  
 
 Seejärel vali HTTPS ning kopeeri link.
@@ -24,7 +25,7 @@ Kui PyCharm küsib litsentsi aktiveerimist, siis vali <kbd>License server</kbd> 
 ```
 http://license1.intra.ttu.ee:1111
 ```
-![PyCharmi aktiveerimine](images/3.png "Pycharmi aktiveerimine")
+![PyCharmi aktiveerimine](images/3_cropped.png "Pycharmi aktiveerimine")
 
 Kui see on tehtud, siis peaks avanema projekti avamise vaade  Sealt vali <kbd>Clone Repository</kbd>.
 ![PyCharmiga Repo Kloonimine](images/21.png "PyCharmiga Repo Kloonimine")
