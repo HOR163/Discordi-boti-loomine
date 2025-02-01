@@ -13,9 +13,9 @@
 
 
 ## Githubi repo allalaadimine
-<!-- Selleks et pildi linki ei saaks avada, peab selle niimodi panema -->
-Selleks, et kood alla laadida vajuta selle lehe ülaosas olevale rohelisele nupule ![Github Code nupp](images/code_button.svg "Github Code Button")
-[![Github koodi allalaadimine](images/1.png "Githubist koodi alla laadimine")](#)  
+<!-- Selleks et ei saaks pildi linki avada -->
+Selleks, et kood alla laadida vajuta selle lehe ülaosas olevale rohelisele nupule [![Github Code nupp](images/code_button.svg "Github Code Button")](#)
+![Github koodi allalaadimine](images/1.png "Githubist koodi alla laadimine")  
 
 Seejärel vali HTTPS ning kopeeri link.
 ![Githubi koodi allalaadimine](images/2.png "Githubist koodi allalaadimine")
