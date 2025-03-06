@@ -65,5 +65,5 @@ Seejärel on bot sinu serverisse lisatud, kuid ta on offline.
 
 
 ## Edasised sammud
-Järgmine samm on katsetada seda et token ning bot töötavad, selle jaoks liigu siia ning lae alla: https://livettu-my.sharepoint.com/:u:/g/personal/anmeno_taltech_ee/EWpn1ydGryJNoM7vOjGJp5IBX4VWH7dnYeYer3NJcCgk3Q?e=ig4KkC
+Järgmine samm on katsetada seda et token ning bot töötavad, selle jaoks liigu siia ning lae alla: https://github.com/anpeep/uno-pygame
 
