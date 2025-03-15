@@ -9,7 +9,7 @@ Konto kasutajanimeks võid kasutada ükskõik mida (ei pea olema sinu päris nim
 ## Boti loomine ja kutsumine serverisse
 Ühine Boti töötoa serveriga: [https://discord.gg/azW56CWK](https://discord.gg/azW56CWK)
 
-Loo servrisse UnoBot sektsiooni alla uus kanal, kuhu paned ka emoji või sümboli millega boti välja kutsuma hakkad (siis ei hakka teiste botid teile vastama)
+Loo servrisse UnoBot sektsiooni alla uus kanal, kuhu paned ka emoji või sümboli millega boti välja kutsuma hakkad (siis ei hakka teiste botid teile vastama)  
 <img src="images/channel_creation.png" width=33% />
 <img src="images/channel_name.png" width=33% />
 
